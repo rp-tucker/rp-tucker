@@ -1,4 +1,4 @@
-## [Tucker](@rp-tucker)
+## [Tucker](https://github.com/rp-tucker/rp-tucker/tree/main)
 
 <!---
 rp-tucker/rp-tucker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
